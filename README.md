@@ -1,2 +1,2 @@
-# PAW-exercise-01
+# phonalph
 git exercise website
